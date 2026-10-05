@@ -1,0 +1,22 @@
+{
+ "version": "1.0-81",
+ "date": "2026-10-05",
+ "notes": [
+  "Limpid for Windows 10 and 11, the same app as on the Mac: your albums with their covers and each album's details, the colours of the music with the drop, the waveform, Playing on for Limpid OS computers, and your account.",
+  "Limpid plays with your Limpid license: sign in when it opens, then Activate on This PC (your account, at the foot of the sidebar).",
+  "Exclusive mode (Settings > Sound) is on: Limpid uses your device on its own, at each file's own sample rate, with nothing of Windows in the way.",
+  "Installing: Limpid is installed for you, with no administrator rights. Windows may say it doesn't know the app yet: choose More info, then Run anyway. Settings > Apps removes it; your music and your settings stay.",
+  "Check for Updates (Settings) looks for a new version only when you ask.",
+  "Experimental (Settings): Straight to the driver gives the music to your device's own driver."
+ ],
+ "x64": {
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-81/Limpid-1.0-81-x64.exe",
+  "size": 73294499,
+  "sha256": "2f589507679447de758d08ffb49fa24e7f4a6b08ac54cf99c04e9732c57afb56"
+ },
+ "arm64": {
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-81/Limpid-1.0-81-arm64.exe",
+  "size": 70239575,
+  "sha256": "6156f232e64f3d74cfcd4364cfe0f9b7b3c4fec37f9abf241a736f10385e5c6d"
+ }
+}
