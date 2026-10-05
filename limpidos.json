@@ -1,0 +1,23 @@
+{
+ "version": "1.0-74",
+ "date": "2026-10-05",
+ "notes": [
+  "Signing in, Check for updates and the other buttons on its page work (they answered \"POST with X-Bloom: 1\"), and Check for updates says in plain words when it cannot check.",
+  "The sound engine is the same as in the version before."
+ ],
+ "files": [
+  {
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-74/bzImage",
+   "size": 12104704,
+   "sha256": "6514e9c498e7dfa368f9b0a71414b30f097d4cd61b72890b08d0b4bf17e5d1b7",
+   "name": "bzImage"
+  },
+  {
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-74/initramfs",
+   "size": 20058419,
+   "sha256": "facbabe4de6b75bf88f852671fa92e6671c0df1a2b580188ba66ade2dd926235",
+   "name": "initramfs"
+  }
+ ],
+ "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-74/limpid-os-1.0-74.zip"
+}
