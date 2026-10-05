@@ -1,0 +1,14 @@
+{
+ "version": "1.0-74",
+ "date": "2026-10-05",
+ "notes": [
+  "Choosing a Limpid OS computer in Playing on: if it has no license, Limpid offers to add one of your licenses to it, or to move yours there.",
+  "A computer that is turned off or not on the network says so when you choose it, and leaves the list until it is back.",
+  "The sound engine is the same as in the version before."
+ ],
+ "dmg": {
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-74/Limpid-1.0-74.dmg",
+  "size": 4294920,
+  "sha256": "c3b4c5c8f94912a63f0b3326a8ee094006cc049e6dd8ba119afe5866b84a32bd"
+ }
+}
