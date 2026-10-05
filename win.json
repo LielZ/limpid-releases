@@ -1,22 +1,20 @@
 {
- "version": "1.0-81",
+ "version": "1.0-82",
  "date": "2026-10-05",
  "notes": [
-  "Limpid for Windows 10 and 11, the same app as on the Mac: your albums with their covers and each album's details, the colours of the music with the drop, the waveform, Playing on for Limpid OS computers, and your account.",
-  "Limpid plays with your Limpid license: sign in when it opens, then Activate on This PC (your account, at the foot of the sidebar).",
-  "Exclusive mode (Settings > Sound) is on: Limpid uses your device on its own, at each file's own sample rate, with nothing of Windows in the way.",
-  "Installing: Limpid is installed for you, with no administrator rights. Windows may say it doesn't know the app yet: choose More info, then Run anyway. Settings > Apps removes it; your music and your settings stay.",
-  "Check for Updates (Settings) looks for a new version only when you ask.",
-  "Experimental (Settings): Straight to the driver gives the music to your device's own driver."
+  "Music plays at its own speed again: files whose sample rate differs from your device's no longer play slowed down.",
+  "Devices that didn't play now do: with Exclusive mode off, and devices that can't be used on their own, which play shared with Windows. The signal path says why.",
+  "Exclusive mode works with more devices.",
+  "Animations run at their intended speed, and the window is lighter to draw."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-81/Limpid-1.0-81-x64.exe",
-  "size": 73294499,
-  "sha256": "2f589507679447de758d08ffb49fa24e7f4a6b08ac54cf99c04e9732c57afb56"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-82/Limpid-1.0-82-x64.exe",
+  "size": 73296844,
+  "sha256": "ba7866f9a32f0944e1da18f9cdfd297c55c2987af3db54776f0b064c8e4136f7"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-81/Limpid-1.0-81-arm64.exe",
-  "size": 70239575,
-  "sha256": "6156f232e64f3d74cfcd4364cfe0f9b7b3c4fec37f9abf241a736f10385e5c6d"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-82/Limpid-1.0-82-arm64.exe",
+  "size": 70240582,
+  "sha256": "aaf2d1b01851a04c4a4aa5f8b9fb50989992a64ae81e2eb3b25c4fb91bb5b2c6"
  }
 }
