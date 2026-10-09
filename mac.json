@@ -1,20 +1,20 @@
 {
- "version": "1.0-159",
+ "version": "1.0-163",
  "date": "2026-10-09",
  "notes": [
+  "Exclusive mode only: when you press play, the device is Limpid's alone, and it stays Limpid's, paused or stopped, until you turn Device Lock off. Playing takes it again.",
+  "The same sound engine as in 1.0-74. Integer mode is each device's own switch, as you set it in 1.0-74.",
   "Your library: search from every page, Artists, Folders as your folders keep them, and every page sorted as you choose (artist, title, release date or when you added the music). Each album shows once.",
   "Music added to your folders comes into the library by itself, never while music plays.",
-  "DSD and DXD: DSD plays as DSD to a DAC that takes it (with Device Lock and the device's DSD switch), and converted for one that doesn't; DXD and other high rates play on every DAC, through a sound engine of their own. A song being prepared shows a spinner.",
   "Play Next, Play Later, Shuffle and Up Next.",
   "Playlists, kept with your account on every computer you sign in on.",
-  "Each device keeps its own settings. Device Lock gives Limpid the device alone; Integer mode is its own switch, off until you turn it on.",
   "Limpid stays in the menu bar when its window closes, and the music plays on.",
-  "Everything else plays through the same sound engine as in 1.0-74.",
+  "DSD and DXD are out for now. We're working on them.",
   "Streaming services are coming. We're working on it."
  ],
  "dmg": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-159/Limpid-1.0-159.dmg",
-  "size": 7329357,
-  "sha256": "3208dc35953746ceb5f62aa2e8ec5f1e4274a96dd3a9880229470daad4df0896"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-163/Limpid-1.0-163.dmg",
+  "size": 5290062,
+  "sha256": "b580063d0999dae306a4eb899d0165cbcde9ecae5fd2f47ae783a0e56adb9c72"
  }
 }
