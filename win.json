@@ -1,20 +1,29 @@
 {
- "version": "1.0-82",
- "date": "2026-10-05",
+ "version": "1.0-520",
+ "date": "2026-10-30",
  "notes": [
-  "Music plays at its own speed again: files whose sample rate differs from your device's no longer play slowed down.",
-  "Devices that didn't play now do: with Exclusive mode off, and devices that can't be used on their own, which play shared with Windows. The signal path says why.",
-  "Exclusive mode works with more devices.",
-  "Animations run at their intended speed, and the window is lighter to draw."
+  "DSD: every song in the queue plays as DSD when your DAC takes it; only the songs it can't take are converted (before, one song too high for the DAC turned DSD off for the whole queue).",
+  "Native DSD256 over ASIO on DACs that play it natively.",
+  "The signal path says \"native\" when DSD reaches your DAC as native DSD.",
+  "Limpid keeps the device you choose for itself, always in Exclusive mode, and asks where to play each time it opens (and from the speaker button).",
+  "DSD and DXD are back. A new DAC can be checked for DSD: Limpid asks first, plays a few seconds of music, and you say if it sounds clean. The signal path names DSD sent as DoP at your DAC, for example DSD128 (DoP).",
+  "Songs added to the queue play right after the song playing now, and Playing Next slides out beside the window.",
+  "Favorites for albums and songs, with Sort By, and Hide (Show Hidden in Sort By brings them back).",
+  "A Music page with Albums, Songs, Artists and Folders; Music Library is in Settings; a Streaming page.",
+  "The Visualizer, in the big player.",
+  "The first guide lets you remove a music folder it lists.",
+  "ASIO drivers are listed with the devices as \"(ASIO)\", with native DSD where the driver supports it. On an ARM PC, ASIO works with the Intel or AMD build.",
+  "While Limpid plays, Windows keeps its processor at full speed (no setting needed).",
+  "For Remote, Windows must treat your network as Private."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-82/Limpid-1.0-82-x64.exe",
-  "size": 73296844,
-  "sha256": "ba7866f9a32f0944e1da18f9cdfd297c55c2987af3db54776f0b064c8e4136f7"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-520/Limpid-1.0-520-x64.exe",
+  "size": 78729796,
+  "sha256": "51c04a5881a7da68c520751edde7ffe73ced46fd0da00f6e58e24de42b7b7d6c"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-82/Limpid-1.0-82-arm64.exe",
-  "size": 70240582,
-  "sha256": "aaf2d1b01851a04c4a4aa5f8b9fb50989992a64ae81e2eb3b25c4fb91bb5b2c6"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-520/Limpid-1.0-520-arm64.exe",
+  "size": 75529665,
+  "sha256": "d852ef7bd3782c875de153267e669c981492a82164f4c7c129b54d7e35ecb69c"
  }
 }
