@@ -1,20 +1,20 @@
 {
- "version": "1.0-163",
- "date": "2026-10-09",
+ "version": "1.0-520",
+ "date": "2026-10-30",
  "notes": [
-  "Exclusive mode only: when you press play, the device is Limpid's alone, and it stays Limpid's, paused or stopped, until you turn Device Lock off. Playing takes it again.",
-  "The same sound engine as in 1.0-74. Integer mode is each device's own switch, as you set it in 1.0-74.",
-  "Your library: search from every page, Artists, Folders as your folders keep them, and every page sorted as you choose (artist, title, release date or when you added the music). Each album shows once.",
-  "Music added to your folders comes into the library by itself, never while music plays.",
-  "Play Next, Play Later, Shuffle and Up Next.",
-  "Playlists, kept with your account on every computer you sign in on.",
-  "Limpid stays in the menu bar when its window closes, and the music plays on.",
-  "DSD and DXD are out for now. We're working on them.",
-  "Streaming services are coming. We're working on it."
+  "DSD: every song in the queue plays as DSD when your DAC takes it; only the songs it can't take are converted (before, one song too high for the DAC turned DSD off for the whole queue).",
+  "While Limpid plays, your Mac does not slow it down (no setting needed).",
+  "Limpid keeps the device you choose for itself, always in Exclusive mode, and asks where to play each time it opens (and from the speaker button).",
+  "DSD and DXD are back. A new DAC can be checked for DSD: Limpid asks first, plays a few seconds of music, and you say if it sounds clean. The signal path names DSD sent as DoP at your DAC, for example DSD128 (DoP).",
+  "Songs added to the queue play right after the song playing now, and Playing Next slides out beside the window.",
+  "Favorites for albums and songs, with Sort By, and Hide (Show Hidden in Sort By brings them back).",
+  "A Music page with Albums, Songs, Artists and Folders; Music Library is in Settings; a Streaming page.",
+  "The Visualizer, in the big player.",
+  "The first guide lets you remove a music folder it lists."
  ],
  "dmg": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-163/Limpid-1.0-163.dmg",
-  "size": 5290062,
-  "sha256": "b580063d0999dae306a4eb899d0165cbcde9ecae5fd2f47ae783a0e56adb9c72"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-520/Limpid-1.0-520.dmg",
+  "size": 15968269,
+  "sha256": "91eb05e1b1be87747922ceb4f79b1d9b602139b30174ce86338796af92693619"
  }
 }
