@@ -1,0 +1,18 @@
+{
+ "version": "1.0-680",
+ "date": "2026-11-14",
+ "notes": [
+  "The first Limpid for Linux: the same Limpid as on Windows, straight to your DAC, with Streaming through Lyrion (Limpid installs Lyrion for you), the Queue, Favorites, playlists and the remotes.",
+  "For x64 and Arm PCs. Unpack it and run install.sh: it installs for you alone, no administrator needed. Settings \u203a Check for Updates brings the next versions."
+ ],
+ "x64": {
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-680/Limpid-1.0-680-x64.tar.gz",
+  "size": 46991846,
+  "sha256": "958ab59f05f971a618a153e16cd8b7bcbddcbdb8b001d2c42f880f92eedaed92"
+ },
+ "arm64": {
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-680/Limpid-1.0-680-arm64.tar.gz",
+  "size": 44852923,
+  "sha256": "4c1e791774101c54c3e42122b6f2a1df3fd78cfb201a9bcd9bc45227cbc10d0b"
+ }
+}
