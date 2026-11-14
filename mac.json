@@ -1,20 +1,24 @@
 {
- "version": "1.0-520",
- "date": "2026-10-30",
+ "version": "1.0-680",
+ "date": "2026-11-14",
  "notes": [
-  "DSD: every song in the queue plays as DSD when your DAC takes it; only the songs it can't take are converted (before, one song too high for the DAC turned DSD off for the whole queue).",
-  "While Limpid plays, your Mac does not slow it down (no setting needed).",
-  "Limpid keeps the device you choose for itself, always in Exclusive mode, and asks where to play each time it opens (and from the speaker button).",
-  "DSD and DXD are back. A new DAC can be checked for DSD: Limpid asks first, plays a few seconds of music, and you say if it sounds clean. The signal path names DSD sent as DoP at your DAC, for example DSD128 (DoP).",
-  "Songs added to the queue play right after the song playing now, and Playing Next slides out beside the window.",
-  "Favorites for albums and songs, with Sort By, and Hide (Show Hidden in Sort By brings them back).",
-  "A Music page with Albums, Songs, Artists and Folders; Music Library is in Settings; a Streaming page.",
-  "The Visualizer, in the big player.",
-  "The first guide lets you remove a music folder it lists."
+  "Streaming in Limpid through Lyrion Music Server: TIDAL, Qobuz and Lyrion's other services, searched, browsed and played by Limpid itself. Limpid can download, install and set up Lyrion for you, sign you in to TIDAL and Qobuz from inside Limpid, and set Lyrion's recommended settings in one click. Streamed songs go in Favorites and playlists.",
+  "DSD & DXD are inside Music: every album and song shows its resolution and format, and a new filter shows only CD, Hi-Res, DXD, DSD (by rate) or MP3.",
+  "An album you keep at several resolutions shows as one album for each.",
+  "A star on every favorite; Most Played for songs, albums and artists (play counts are kept with your account).",
+  "Limpid opens as you left it: the same list, the same song, the same second, paused.",
+  "The song's name and artist in the bar open \"Go to Album\" and \"Go to Artist\".",
+  "An album's booklet, read inside Limpid.",
+  "Music you add while Limpid plays shows up at once; covers and details keep coming.",
+  "The Queue: its buttons say what they did, Shuffle, Repeat and Infinity marks under the bar's cover, and in full screen it sits inside the window.",
+  "\"Download Remote App\" with a QR code; the iPhone and Android remotes get Streaming, the resolution filter, Folders and Most Played.",
+  "A Limpid OS computer is played from Limpid with all its features: its Streaming and its plugins' pages inside Limpid.",
+  "DSD256 reaches a Merging DAC as DSD256 (DoP) instead of being converted.",
+  "The device you choose is kept; a new DAC's DSD check can't be skipped by mistake."
  ],
  "dmg": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-520/Limpid-1.0-520.dmg",
-  "size": 15968269,
-  "sha256": "91eb05e1b1be87747922ceb4f79b1d9b602139b30174ce86338796af92693619"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-680/Limpid-1.0-680.dmg",
+  "size": 19621936,
+  "sha256": "5577a1226cb76560817217f1c44b1f1f86a6ddf1293f8356785f164a8fc74dbe"
  }
 }
