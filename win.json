@@ -1,29 +1,30 @@
 {
- "version": "1.0-520",
- "date": "2026-10-30",
+ "version": "1.0-680",
+ "date": "2026-11-14",
  "notes": [
-  "DSD: every song in the queue plays as DSD when your DAC takes it; only the songs it can't take are converted (before, one song too high for the DAC turned DSD off for the whole queue).",
-  "Native DSD256 over ASIO on DACs that play it natively.",
-  "The signal path says \"native\" when DSD reaches your DAC as native DSD.",
-  "Limpid keeps the device you choose for itself, always in Exclusive mode, and asks where to play each time it opens (and from the speaker button).",
-  "DSD and DXD are back. A new DAC can be checked for DSD: Limpid asks first, plays a few seconds of music, and you say if it sounds clean. The signal path names DSD sent as DoP at your DAC, for example DSD128 (DoP).",
-  "Songs added to the queue play right after the song playing now, and Playing Next slides out beside the window.",
-  "Favorites for albums and songs, with Sort By, and Hide (Show Hidden in Sort By brings them back).",
-  "A Music page with Albums, Songs, Artists and Folders; Music Library is in Settings; a Streaming page.",
-  "The Visualizer, in the big player.",
-  "The first guide lets you remove a music folder it lists.",
-  "ASIO drivers are listed with the devices as \"(ASIO)\", with native DSD where the driver supports it. On an ARM PC, ASIO works with the Intel or AMD build.",
-  "While Limpid plays, Windows keeps its processor at full speed (no setting needed).",
-  "For Remote, Windows must treat your network as Private."
+  "Streaming in Limpid through Lyrion Music Server: TIDAL, Qobuz and Lyrion's other services, searched, browsed and played by Limpid itself. Limpid can download, install and set up Lyrion for you, sign you in to TIDAL and Qobuz from inside Limpid, and set Lyrion's recommended settings in one click. Streamed songs go in Favorites and playlists.",
+  "DSD & DXD are inside Music: every album and song shows its resolution and format, and a new filter shows only CD, Hi-Res, DXD, DSD (by rate) or MP3.",
+  "An album you keep at several resolutions shows as one album for each.",
+  "A star on every favorite; Most Played for songs, albums and artists (play counts are kept with your account).",
+  "Limpid opens as you left it: the same list, the same song, the same second, paused.",
+  "The song's name and artist in the bar open \"Go to Album\" and \"Go to Artist\".",
+  "An album's booklet, read inside Limpid.",
+  "Music you add while Limpid plays shows up at once; covers and details keep coming.",
+  "The Queue: its buttons say what they did, Shuffle, Repeat and Infinity marks under the bar's cover, a sharp card, the mouse wheel scrolls it, and when the window fills the screen it sits inside the window.",
+  "\"Download Remote App\" with a QR code; the iPhone and Android remotes get Streaming, the resolution filter, Folders and Most Played, and the Remote works on a network Windows calls Public.",
+  "A Limpid OS computer is played from Limpid with all its features: its Streaming and its plugins' pages inside Limpid.",
+  "A song at a rate your device doesn't take plays converted for it instead of not playing.",
+  "An antivirus such as ESET no longer stops Limpid's plugins.",
+  "Several crashes fixed (the search, Streaming's covers, a panel left open at start); Minimize no longer plays the song behind it."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-520/Limpid-1.0-520-x64.exe",
-  "size": 78729796,
-  "sha256": "51c04a5881a7da68c520751edde7ffe73ced46fd0da00f6e58e24de42b7b7d6c"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-680/Limpid-1.0-680-x64.exe",
+  "size": 78830628,
+  "sha256": "54fae7ac362521d71db1a54405cd8a090fcbfaaa2d348704be4726f0f58953eb"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-520/Limpid-1.0-520-arm64.exe",
-  "size": 75529665,
-  "sha256": "d852ef7bd3782c875de153267e669c981492a82164f4c7c129b54d7e35ecb69c"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-680/Limpid-1.0-680-arm64.exe",
+  "size": 75607226,
+  "sha256": "e61097f84e8b14e6d1c5e5320d4213907a007b57f83ea43157558ee922c8fce4"
  }
 }
