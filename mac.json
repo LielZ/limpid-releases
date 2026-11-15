@@ -1,24 +1,20 @@
 {
- "version": "1.0-680",
- "date": "2026-11-14",
+ "version": "1.0-689",
+ "date": "2026-11-15",
  "notes": [
-  "Streaming in Limpid through Lyrion Music Server: TIDAL, Qobuz and Lyrion's other services, searched, browsed and played by Limpid itself. Limpid can download, install and set up Lyrion for you, sign you in to TIDAL and Qobuz from inside Limpid, and set Lyrion's recommended settings in one click. Streamed songs go in Favorites and playlists.",
-  "DSD & DXD are inside Music: every album and song shows its resolution and format, and a new filter shows only CD, Hi-Res, DXD, DSD (by rate) or MP3.",
-  "An album you keep at several resolutions shows as one album for each.",
-  "A star on every favorite; Most Played for songs, albums and artists (play counts are kept with your account).",
-  "Limpid opens as you left it: the same list, the same song, the same second, paused.",
-  "The song's name and artist in the bar open \"Go to Album\" and \"Go to Artist\".",
-  "An album's booklet, read inside Limpid.",
-  "Music you add while Limpid plays shows up at once; covers and details keep coming.",
-  "The Queue: its buttons say what they did, Shuffle, Repeat and Infinity marks under the bar's cover, and in full screen it sits inside the window.",
-  "\"Download Remote App\" with a QR code; the iPhone and Android remotes get Streaming, the resolution filter, Folders and Most Played.",
-  "A Limpid OS computer is played from Limpid with all its features: its Streaming and its plugins' pages inside Limpid.",
-  "DSD256 reaches a Merging DAC as DSD256 (DoP) instead of being converted.",
-  "The device you choose is kept; a new DAC's DSD check can't be skipped by mistake."
+  "Favorites are kept with your Limpid account: a favorite added on one computer is there on your others.",
+  "Support & Updates, the last item in the sidebar: news about Limpid, and your questions to us answered inside Limpid. A number shows when an answer is waiting.",
+  "Limpid updates itself: the new version downloads while no music plays and is installed when you choose Restart to Update, or when you close Limpid.",
+  "In full screen, the album, the artist and the song's name take you to them; the song's name opens the place you started it from, and the big picture opens its album. The magnifier searches for the song, its album or its artist.",
+  "Streaming through Lyrion: Next is ready at once, and pictures show as they arrive.",
+  "Without a license, this Mac can be a remote for another Limpid on your network: Limpid finds it by itself.",
+  "Playing on another computer, you see and change that computer's settings, its Lyrion and its Playing Next, and a song started in Lyrion there shows as playing.",
+  "Song rows no longer animate as you scroll.",
+  "The iPhone and Android remotes can add to Favorites and hide music again, and open an album's information and booklet."
  ],
  "dmg": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-680/Limpid-1.0-680.dmg",
-  "size": 19621936,
-  "sha256": "5577a1226cb76560817217f1c44b1f1f86a6ddf1293f8356785f164a8fc74dbe"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-689/Limpid-1.0-689.dmg",
+  "size": 20972373,
+  "sha256": "3a04faafc29a0ea620ea1ad61e35e3c9cc140bc0adf965876d66f3e5e41cf58a"
  }
 }
