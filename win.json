@@ -1,30 +1,25 @@
 {
- "version": "1.0-680",
- "date": "2026-11-14",
+ "version": "1.0-689",
+ "date": "2026-11-15",
  "notes": [
-  "Streaming in Limpid through Lyrion Music Server: TIDAL, Qobuz and Lyrion's other services, searched, browsed and played by Limpid itself. Limpid can download, install and set up Lyrion for you, sign you in to TIDAL and Qobuz from inside Limpid, and set Lyrion's recommended settings in one click. Streamed songs go in Favorites and playlists.",
-  "DSD & DXD are inside Music: every album and song shows its resolution and format, and a new filter shows only CD, Hi-Res, DXD, DSD (by rate) or MP3.",
-  "An album you keep at several resolutions shows as one album for each.",
-  "A star on every favorite; Most Played for songs, albums and artists (play counts are kept with your account).",
-  "Limpid opens as you left it: the same list, the same song, the same second, paused.",
-  "The song's name and artist in the bar open \"Go to Album\" and \"Go to Artist\".",
-  "An album's booklet, read inside Limpid.",
-  "Music you add while Limpid plays shows up at once; covers and details keep coming.",
-  "The Queue: its buttons say what they did, Shuffle, Repeat and Infinity marks under the bar's cover, a sharp card, the mouse wheel scrolls it, and when the window fills the screen it sits inside the window.",
-  "\"Download Remote App\" with a QR code; the iPhone and Android remotes get Streaming, the resolution filter, Folders and Most Played, and the Remote works on a network Windows calls Public.",
-  "A Limpid OS computer is played from Limpid with all its features: its Streaming and its plugins' pages inside Limpid.",
-  "A song at a rate your device doesn't take plays converted for it instead of not playing.",
-  "An antivirus such as ESET no longer stops Limpid's plugins.",
-  "Several crashes fixed (the search, Streaming's covers, a panel left open at start); Minimize no longer plays the song behind it."
+  "Favorites are kept with your Limpid account: a favorite added on one computer is there on your others.",
+  "Support & Updates, the last item in the sidebar: news about Limpid, and your questions to us answered inside Limpid. A number shows when an answer is waiting.",
+  "Limpid updates itself: the new version downloads while no music plays and is installed when you choose Restart to Update, or when you close Limpid.",
+  "When another program is using your device, Limpid tells you which one and waits until it is free, or you choose another device. If another program takes it while Limpid plays, Limpid stops and tells you.",
+  "In full screen, the album, the artist and the song's name take you to them; the song's name opens the place you started it from, and the big picture opens its album. The magnifier searches for the song, its album or its artist.",
+  "Streaming through Lyrion: Next is ready at once, pictures show as they arrive, and Lyrion is started again if it doesn't come back by itself after a change.",
+  "Without a license, this PC can be a remote for another Limpid on your network: Limpid finds it by itself.",
+  "Playing on another computer, you see and change that computer's settings, its Lyrion and its Playing Next, and a song started in Lyrion there shows as playing.",
+  "The iPhone and Android remotes can add to Favorites and hide music again, and open an album's information and booklet."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-680/Limpid-1.0-680-x64.exe",
-  "size": 78830628,
-  "sha256": "54fae7ac362521d71db1a54405cd8a090fcbfaaa2d348704be4726f0f58953eb"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-689/Limpid-1.0-689-x64.exe",
+  "size": 78924551,
+  "sha256": "b9c847cad35656a83538e38f3e97d0f059af3b89dbf8bab90c8a3c923f46ce6c"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-680/Limpid-1.0-680-arm64.exe",
-  "size": 75607226,
-  "sha256": "e61097f84e8b14e6d1c5e5320d4213907a007b57f83ea43157558ee922c8fce4"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-689/Limpid-1.0-689-arm64.exe",
+  "size": 75701568,
+  "sha256": "373a9556024b62001f671f0fdc746b53d1a3d8b4c27f912014fbe48cc6235a54"
  }
 }
