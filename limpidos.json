@@ -1,26 +1,24 @@
 {
- "version": "1.0-680",
- "date": "2026-11-14",
+ "version": "1.0-689",
+ "date": "2026-11-15",
  "notes": [
-  "Today's Limpid engine: bit-perfect up to 384 kHz, DSD and DXD, gapless, Play Next while the music plays.",
-  "Your DAC's own volume control, on DACs that have one.",
-  "Streaming through Lyrion Music Server, installed and set up on the computer itself, with TIDAL and Qobuz sign-in. Limpid OS's own TIDAL is gone: sign in to TIDAL again under Streaming.",
-  "A new page, as Limpid on the Mac: Music with Albums, Songs, Artists and Folders, the resolution filter, stars, Playing Next, the waveform seek bar, the Visualizer, the DAC's DSD check, plugins, and the remote app's QR code.",
-  "Played from Limpid on your Mac or PC with all its features, or from the iPhone and Android remotes."
+  "Favorites are kept with your Limpid account, together with your computers'.",
+  "Streaming through Lyrion: Next is ready at once, and pictures show as they arrive.",
+  "With the iPhone and Android remotes: the time and the seek bar stay in step both ways, Up Next is Limpid's Playing Next, and an album's information and booklet open on the phone."
  ],
  "files": [
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-680/bzImage",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-689/bzImage",
    "size": 12104704,
    "sha256": "6514e9c498e7dfa368f9b0a71414b30f097d4cd61b72890b08d0b4bf17e5d1b7",
    "name": "bzImage"
   },
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-680/initramfs",
-   "size": 39557236,
-   "sha256": "4e1ce9898bd3b8bbe6034ab2544041faa7152be3fa269f2fdd65ec08ad3db07e",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-689/initramfs",
+   "size": 40359701,
+   "sha256": "4de241a3b31c77337a3ec66926479c260bc77c098c62a094065b4a8cf035fbb7",
    "name": "initramfs"
   }
  ],
- "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-680/limpid-os-1.0-680.zip"
+ "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-689/limpid-os-1.0-689.zip"
 }
