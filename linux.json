@@ -1,18 +1,25 @@
 {
- "version": "1.0-680",
- "date": "2026-11-14",
+ "version": "1.0-689",
+ "date": "2026-11-15",
  "notes": [
-  "The first Limpid for Linux: the same Limpid as on Windows, straight to your DAC, with Streaming through Lyrion (Limpid installs Lyrion for you), the Queue, Favorites, playlists and the remotes.",
-  "For x64 and Arm PCs. Unpack it and run install.sh: it installs for you alone, no administrator needed. Settings \u203a Check for Updates brings the next versions."
+  "Favorites are kept with your Limpid account: a favorite added on one computer is there on your others.",
+  "Support & Updates, the last item in the sidebar: news about Limpid, and your questions to us answered inside Limpid. A number shows when an answer is waiting.",
+  "Limpid updates itself: the new version downloads while no music plays and is installed when you choose Restart to Update, or when you close Limpid.",
+  "When another program is using your device, Limpid tells you which one and waits until it is free, or you choose another device.",
+  "In full screen, the album, the artist and the song's name take you to them; the song's name opens the place you started it from, and the big picture opens its album. The magnifier searches for the song, its album or its artist.",
+  "Streaming through Lyrion: Next is ready at once, pictures show as they arrive, and Lyrion is started again if it doesn't come back by itself after a change.",
+  "Without a license, this PC can be a remote for another Limpid on your network: Limpid finds it by itself.",
+  "Playing on another computer, you see and change that computer's settings, its Lyrion and its Playing Next.",
+  "The iPhone and Android remotes can add to Favorites and hide music again, and open an album's information and booklet."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-680/Limpid-1.0-680-x64.tar.gz",
-  "size": 46991846,
-  "sha256": "958ab59f05f971a618a153e16cd8b7bcbddcbdb8b001d2c42f880f92eedaed92"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-689/Limpid-1.0-689-x64.tar.gz",
+  "size": 47142901,
+  "sha256": "060a352be0b182f472ebf07e23ff269cfa459e60e560e4e8b58dc8fe92403b91"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-680/Limpid-1.0-680-arm64.tar.gz",
-  "size": 44852923,
-  "sha256": "4c1e791774101c54c3e42122b6f2a1df3fd78cfb201a9bcd9bc45227cbc10d0b"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-689/Limpid-1.0-689-arm64.tar.gz",
+  "size": 45011871,
+  "sha256": "b8895c3c428b6fb19dc264274fea6bb269e9d03e41a47d26eed68b617f3dbb84"
  }
 }
