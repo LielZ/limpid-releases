@@ -1,24 +1,22 @@
 {
- "version": "1.0-689",
- "date": "2026-11-15",
+ "version": "1.0-691",
+ "date": "2026-11-16",
  "notes": [
-  "Favorites are kept with your Limpid account, together with your computers'.",
-  "Streaming through Lyrion: Next is ready at once, and pictures show as they arrive.",
-  "With the iPhone and Android remotes: the time and the seek bar stay in step both ways, Up Next is Limpid's Playing Next, and an album's information and booklet open on the phone."
+  "Limpid OS's player itself now checks its license before it plays."
  ],
  "files": [
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-689/bzImage",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-691/bzImage",
    "size": 12104704,
    "sha256": "6514e9c498e7dfa368f9b0a71414b30f097d4cd61b72890b08d0b4bf17e5d1b7",
    "name": "bzImage"
   },
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-689/initramfs",
-   "size": 40359701,
-   "sha256": "4de241a3b31c77337a3ec66926479c260bc77c098c62a094065b4a8cf035fbb7",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-691/initramfs",
+   "size": 40383992,
+   "sha256": "516761f85be564031aaff7241090a30393135b9eabf5a776dff14609db71498b",
    "name": "initramfs"
   }
  ],
- "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-689/limpid-os-1.0-689.zip"
+ "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-691/limpid-os-1.0-691.zip"
 }
