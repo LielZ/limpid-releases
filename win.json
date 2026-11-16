@@ -1,25 +1,20 @@
 {
- "version": "1.0-689",
- "date": "2026-11-15",
+ "version": "1.0-691",
+ "date": "2026-11-16",
  "notes": [
-  "Favorites are kept with your Limpid account: a favorite added on one computer is there on your others.",
-  "Support & Updates, the last item in the sidebar: news about Limpid, and your questions to us answered inside Limpid. A number shows when an answer is waiting.",
-  "Limpid updates itself: the new version downloads while no music plays and is installed when you choose Restart to Update, or when you close Limpid.",
-  "When another program is using your device, Limpid tells you which one and waits until it is free, or you choose another device. If another program takes it while Limpid plays, Limpid stops and tells you.",
-  "In full screen, the album, the artist and the song's name take you to them; the song's name opens the place you started it from, and the big picture opens its album. The magnifier searches for the song, its album or its artist.",
-  "Streaming through Lyrion: Next is ready at once, pictures show as they arrive, and Lyrion is started again if it doesn't come back by itself after a change.",
-  "Without a license, this PC can be a remote for another Limpid on your network: Limpid finds it by itself.",
-  "Playing on another computer, you see and change that computer's settings, its Lyrion and its Playing Next, and a song started in Lyrion there shows as playing.",
-  "The iPhone and Android remotes can add to Favorites and hide music again, and open an album's information and booklet."
+  "Your music folders: the button that takes a folder out of your library now says Remove.",
+  "When another program is using your ASIO device, Limpid tells you which program, plays nothing until it is free, and plays again by itself once it is. If another program takes it while Limpid plays, Limpid stops and tells you.",
+  "DSD plays at a higher priority on this PC.",
+  "Limpid's player itself now checks your license before it plays."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-689/Limpid-1.0-689-x64.exe",
-  "size": 78924551,
-  "sha256": "b9c847cad35656a83538e38f3e97d0f059af3b89dbf8bab90c8a3c923f46ce6c"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-691/Limpid-1.0-691-x64.exe",
+  "size": 78974870,
+  "sha256": "8295ad65f20afd23c11c5e914710a622db592b3ff4ba8eb88b5fc0c3f414d80d"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-689/Limpid-1.0-689-arm64.exe",
-  "size": 75701568,
-  "sha256": "373a9556024b62001f671f0fdc746b53d1a3d8b4c27f912014fbe48cc6235a54"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-691/Limpid-1.0-691-arm64.exe",
+  "size": 75752826,
+  "sha256": "ee1cc624ef379b57527fc41c2156070219af358dcc0d6739b6d229339a37ec1d"
  }
 }
