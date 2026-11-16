@@ -1,13 +1,12 @@
 {
- "version": "1.0-691",
+ "version": "1.0-693",
  "date": "2026-11-16",
  "notes": [
-  "Your music folders: the button that takes a folder out of your library now says Remove.",
-  "Limpid's player itself now checks your license before it plays."
+  "Limpid's own update works again on Macs where it said \"The update couldn't be opened.\" If yours said it, install this version once from limpidaudio.com; after that Limpid updates itself."
  ],
  "dmg": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-691/Limpid-1.0-691.dmg",
-  "size": 21072913,
-  "sha256": "2532d1c071a99cf8d1c4d79133bf2d8a444ae00b4e2c684882c6db6376a9808b"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-693/Limpid-1.0-693.dmg",
+  "size": 21097893,
+  "sha256": "5fc10821036ea7f6858505f41ba72d227585d4783dc4463652fa70abe589224f"
  }
 }
