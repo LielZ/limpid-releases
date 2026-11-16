@@ -1,20 +1,19 @@
 {
- "version": "1.0-691",
+ "version": "1.0-693",
  "date": "2026-11-16",
  "notes": [
-  "Your music folders: the button that takes a folder out of your library now says Remove.",
-  "When another program is using your ASIO device, Limpid tells you which program, plays nothing until it is free, and plays again by itself once it is. If another program takes it while Limpid plays, Limpid stops and tells you.",
-  "DSD plays at a higher priority on this PC.",
-  "Limpid's player itself now checks your license before it plays."
+  "Installing Lyrion Music Server from Limpid no longer opens a black window.",
+  "Installing Lyrion Music Server again after removing it installs all of it, so it starts.",
+  "When another program is using your ASIO device, Limpid no longer shows a note at the top: pressing Play shows the window with Try Again and Choose Another Device."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-691/Limpid-1.0-691-x64.exe",
-  "size": 78974870,
-  "sha256": "8295ad65f20afd23c11c5e914710a622db592b3ff4ba8eb88b5fc0c3f414d80d"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-693/Limpid-1.0-693-x64.exe",
+  "size": 79023574,
+  "sha256": "36fca92eccdb6048a7bfb6b5171103f225b7fb9336c8f460e4be310088d3f532"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-691/Limpid-1.0-691-arm64.exe",
-  "size": 75752826,
-  "sha256": "ee1cc624ef379b57527fc41c2156070219af358dcc0d6739b6d229339a37ec1d"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-693/Limpid-1.0-693-arm64.exe",
+  "size": 75801672,
+  "sha256": "82fa8c532da74a4f63357f28c8fb86f760cb98c66394cd3acbc66bf5d7ba5b5d"
  }
 }
