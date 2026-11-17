@@ -1,21 +1,20 @@
 {
- "version": "1.0-695",
+ "version": "1.0-696",
  "date": "2026-11-17",
  "notes": [
-  "Albums you have in more than one format (for example FLAC and WAV) are now separate albums, each showing its format.",
-  "Back: after the first 3 seconds of a song it starts the song again; in the first 3 seconds it plays the song before. When the song was played from search, Infinity or Lyrion, Back now plays the song you heard before it.",
-  "History, a new button in the Queue: every song you played in the last month, on all your computers.",
-  "Show Path, when you right-click a song: shows where its file is.",
-  "A song that is twice in the same album shows a mark beside it; you can hide one copy. When an album has more than two, a Duplicates button hides all the extra copies at once."
+  "Hiding a duplicate song, or all of an album's duplicates, now shows on the album's page at once.",
+  "A song you hid as a duplicate comes back by itself when its other copy leaves your library.",
+  "Unhide Duplicates, in the album's Duplicates button, brings back the copies you hid.",
+  "Support & Updates is now News & Updates. Limpid's own updates are in Settings."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-695/Limpid-1.0-695-x64.tar.gz",
-  "size": 47211721,
-  "sha256": "5a8b5d4e30a5ded7fce3b3905eb125d0d5101efb9a6e0f402b7347151ca13a9b"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-696/Limpid-1.0-696-x64.tar.gz",
+  "size": 47229779,
+  "sha256": "c033fa28273325d9634a250f89e0d83aa509721c6e2596ee51747dbfb63f552c"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-695/Limpid-1.0-695-arm64.tar.gz",
-  "size": 45081703,
-  "sha256": "6072054e9529adb32f29f79dbb1acc5edc2e1bdbb62c14161777ce1748d6d452"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-696/Limpid-1.0-696-arm64.tar.gz",
+  "size": 45101889,
+  "sha256": "2200e9e1ef859e6487aceec8ac4ba48c944c999f0e2d9749f3d6c3e834b4c6a9"
  }
 }
