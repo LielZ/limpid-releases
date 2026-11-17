@@ -1,22 +1,24 @@
 {
- "version": "1.0-691",
- "date": "2026-11-16",
+ "version": "1.0-695",
+ "date": "2026-11-17",
  "notes": [
-  "Limpid OS's player itself now checks its license before it plays."
+  "Albums you have in more than one format are now separate albums, each showing its format, in the phone apps.",
+  "Back works as on the computers, and History keeps every song you played in the last month.",
+  "The phone apps can hide duplicate songs of an album."
  ],
  "files": [
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-691/bzImage",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-695/bzImage",
    "size": 12104704,
    "sha256": "6514e9c498e7dfa368f9b0a71414b30f097d4cd61b72890b08d0b4bf17e5d1b7",
    "name": "bzImage"
   },
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-691/initramfs",
-   "size": 40383992,
-   "sha256": "516761f85be564031aaff7241090a30393135b9eabf5a776dff14609db71498b",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-695/initramfs",
+   "size": 40424736,
+   "sha256": "128783b92469ef4c5d46dc49082f77ff16c996165b0f50371b0e313a36ab5a58",
    "name": "initramfs"
   }
  ],
- "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-691/limpid-os-1.0-691.zip"
+ "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-695/limpid-os-1.0-695.zip"
 }
