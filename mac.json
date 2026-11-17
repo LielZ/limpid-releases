@@ -1,12 +1,16 @@
 {
- "version": "1.0-694",
- "date": "2026-11-16",
+ "version": "1.0-695",
+ "date": "2026-11-17",
  "notes": [
-  "Limpid opens again on Macs where it quit as soon as it started (1.0-691 and 1.0-693). If yours did, install this version from limpidaudio.com."
+  "Albums you have in more than one format (for example FLAC and WAV) are now separate albums, each showing its format.",
+  "Back: after the first 3 seconds of a song it starts the song again; in the first 3 seconds it plays the song before. When the song was played from search, Infinity or Lyrion, Back now plays the song you heard before it.",
+  "History, a new button in the Queue: every song you played in the last month, on all your computers.",
+  "Show Path, when you right-click a song: shows where its file is.",
+  "A song that is twice in the same album shows a mark beside it; you can hide one copy. When an album has more than two, a Duplicates button hides all the extra copies at once."
  ],
  "dmg": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-694/Limpid-1.0-694.dmg",
-  "size": 21090922,
-  "sha256": "33cc1394a40d9b2e16db14efa5a6808c72061a5b7b585374e4247fc56e4533f1"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-695/Limpid-1.0-695.dmg",
+  "size": 21440657,
+  "sha256": "4528026649c073ca0609f8b6a10e1038a7d923952f191a8f4b4fcd802a813be1"
  }
 }
