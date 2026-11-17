@@ -1,24 +1,22 @@
 {
- "version": "1.0-695",
+ "version": "1.0-696",
  "date": "2026-11-17",
  "notes": [
-  "Albums you have in more than one format are now separate albums, each showing its format, in the phone apps.",
-  "Back works as on the computers, and History keeps every song you played in the last month.",
-  "The phone apps can hide duplicate songs of an album."
+  "A song you hid as a duplicate from the phone apps comes back by itself when its other copy leaves your library, and the phone apps can unhide an album's duplicates."
  ],
  "files": [
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-695/bzImage",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-696/bzImage",
    "size": 12104704,
    "sha256": "6514e9c498e7dfa368f9b0a71414b30f097d4cd61b72890b08d0b4bf17e5d1b7",
    "name": "bzImage"
   },
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-695/initramfs",
-   "size": 40424736,
-   "sha256": "128783b92469ef4c5d46dc49082f77ff16c996165b0f50371b0e313a36ab5a58",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-696/initramfs",
+   "size": 40438857,
+   "sha256": "5be87ae23a5e9dc5f4a50d46ac4d909ab55dbe5c288b040a7ae7a1736453d9a8",
    "name": "initramfs"
   }
  ],
- "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-695/limpid-os-1.0-695.zip"
+ "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-696/limpid-os-1.0-696.zip"
 }
