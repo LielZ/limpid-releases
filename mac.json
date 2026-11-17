@@ -1,16 +1,15 @@
 {
- "version": "1.0-695",
+ "version": "1.0-696",
  "date": "2026-11-17",
  "notes": [
-  "Albums you have in more than one format (for example FLAC and WAV) are now separate albums, each showing its format.",
-  "Back: after the first 3 seconds of a song it starts the song again; in the first 3 seconds it plays the song before. When the song was played from search, Infinity or Lyrion, Back now plays the song you heard before it.",
-  "History, a new button in the Queue: every song you played in the last month, on all your computers.",
-  "Show Path, when you right-click a song: shows where its file is.",
-  "A song that is twice in the same album shows a mark beside it; you can hide one copy. When an album has more than two, a Duplicates button hides all the extra copies at once."
+  "Hiding a duplicate song, or all of an album's duplicates, now shows on the album's page at once.",
+  "A song you hid as a duplicate comes back by itself when its other copy leaves your library.",
+  "Unhide Duplicates, in the album's Duplicates button, brings back the copies you hid.",
+  "Support & Updates is now News & Updates. Limpid's own updates are in Settings."
  ],
  "dmg": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-695/Limpid-1.0-695.dmg",
-  "size": 21440657,
-  "sha256": "4528026649c073ca0609f8b6a10e1038a7d923952f191a8f4b4fcd802a813be1"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-696/Limpid-1.0-696.dmg",
+  "size": 21494616,
+  "sha256": "fef7dfe64597f51d59ae33a4a42ab426903731e702925891f4344b94bdc320ae"
  }
 }
