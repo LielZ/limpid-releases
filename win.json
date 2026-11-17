@@ -1,19 +1,22 @@
 {
- "version": "1.0-693",
- "date": "2026-11-16",
+ "version": "1.0-695",
+ "date": "2026-11-17",
  "notes": [
-  "Installing Lyrion Music Server from Limpid no longer opens a black window.",
-  "Installing Lyrion Music Server again after removing it installs all of it, so it starts.",
-  "When another program is using your ASIO device, Limpid no longer shows a note at the top: pressing Play shows the window with Try Again and Choose Another Device."
+  "Albums you have in more than one format (for example FLAC and WAV) are now separate albums, each showing its format.",
+  "Back: after the first 3 seconds of a song it starts the song again; in the first 3 seconds it plays the song before. When the song was played from search, Infinity or Lyrion, Back now plays the song you heard before it.",
+  "History, a new button in the Queue: every song you played in the last month, on all your computers.",
+  "Show Path, when you right-click a song: shows where its file is.",
+  "A song that is twice in the same album shows a mark beside it; you can hide one copy. When an album has more than two, a Duplicates button hides all the extra copies at once.",
+  "The album picture's shadow in the full player now has the same rounded corners as the picture."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-693/Limpid-1.0-693-x64.exe",
-  "size": 79023574,
-  "sha256": "36fca92eccdb6048a7bfb6b5171103f225b7fb9336c8f460e4be310088d3f532"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-695/Limpid-1.0-695-x64.exe",
+  "size": 79057688,
+  "sha256": "1f43a9f2889060a3dfe9203bf7b3b5261f4a5f09fdb98db5a2d1c9c71226c13b"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-693/Limpid-1.0-693-arm64.exe",
-  "size": 75801672,
-  "sha256": "82fa8c532da74a4f63357f28c8fb86f760cb98c66394cd3acbc66bf5d7ba5b5d"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-695/Limpid-1.0-695-arm64.exe",
+  "size": 75835855,
+  "sha256": "bc7b4c995007407b3ef649c9bce06887b743b5cd4f8f3ccd31efcc9abc2f479b"
  }
 }
