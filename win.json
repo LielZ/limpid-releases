@@ -1,21 +1,21 @@
 {
- "version": "1.0-696",
+ "version": "1.0-697",
  "date": "2026-11-17",
  "notes": [
-  "Hiding a duplicate song, or all of an album's duplicates, now shows on the album's page at once.",
-  "A song you hid as a duplicate comes back by itself when its other copy leaves your library.",
-  "Unhide Duplicates, in the album's Duplicates button, brings back the copies you hid.",
-  "Support & Updates is now News & Updates. Limpid's own updates are in Settings.",
-  "Album pictures and artist photos now have shadows with the same rounded corners, also in Now Playing with the Visualizer on."
+  "The Music page's filter says All Resolutions until you choose one.",
+  "Show Hidden is now its own button next to the filter, there only while something is hidden.",
+  "While a filter or Show Hidden is on, a line under the buttons says what you're viewing, with Reset Filters.",
+  "The buttons at the top of the Music page stay with you while you scroll.",
+  "News & Updates is now News & Support, with a lifebuoy icon."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-696/Limpid-1.0-696-x64.exe",
-  "size": 79065581,
-  "sha256": "f82b250ec8d773e49f900b064db9183c2d0ba84ca2c93b780f863f69453fe401"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-697/Limpid-1.0-697-x64.exe",
+  "size": 79066232,
+  "sha256": "5965a79236f55880190e4d743ad52f076b7a093f6f5e337edc4c803272c3c6ce"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-696/Limpid-1.0-696-arm64.exe",
-  "size": 75843666,
-  "sha256": "f07b07853988bb971c8569878e47d4d819e6ddfb69d25ac72ed21ff50a4931d9"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-697/Limpid-1.0-697-arm64.exe",
+  "size": 75844358,
+  "sha256": "54484181a65c4daeb697cfe7d8d2294e5dcf17eb8aeba52a093ae29278a29817"
  }
 }
