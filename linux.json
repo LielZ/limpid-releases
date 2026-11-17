@@ -1,18 +1,21 @@
 {
- "version": "1.0-691",
- "date": "2026-11-16",
+ "version": "1.0-695",
+ "date": "2026-11-17",
  "notes": [
-  "Your music folders: the button that takes a folder out of your library now says Remove.",
-  "Limpid's player itself now checks your license before it plays."
+  "Albums you have in more than one format (for example FLAC and WAV) are now separate albums, each showing its format.",
+  "Back: after the first 3 seconds of a song it starts the song again; in the first 3 seconds it plays the song before. When the song was played from search, Infinity or Lyrion, Back now plays the song you heard before it.",
+  "History, a new button in the Queue: every song you played in the last month, on all your computers.",
+  "Show Path, when you right-click a song: shows where its file is.",
+  "A song that is twice in the same album shows a mark beside it; you can hide one copy. When an album has more than two, a Duplicates button hides all the extra copies at once."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-691/Limpid-1.0-691-x64.tar.gz",
-  "size": 47175326,
-  "sha256": "1e66f994355fd5fe3a15869c13815a9ff863831c11312c76e636472666b6328e"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-695/Limpid-1.0-695-x64.tar.gz",
+  "size": 47211721,
+  "sha256": "5a8b5d4e30a5ded7fce3b3905eb125d0d5101efb9a6e0f402b7347151ca13a9b"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-691/Limpid-1.0-691-arm64.tar.gz",
-  "size": 45046540,
-  "sha256": "62f19012723cdc0bc215fbd59356603eff0752add2b6de130323bf726a837f0e"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-695/Limpid-1.0-695-arm64.tar.gz",
+  "size": 45081703,
+  "sha256": "6072054e9529adb32f29f79dbb1acc5edc2e1bdbb62c14161777ce1748d6d452"
  }
 }
