@@ -1,22 +1,22 @@
 {
- "version": "1.0-696",
+ "version": "1.0-697",
  "date": "2026-11-17",
  "notes": [
-  "A song you hid as a duplicate from the phone apps comes back by itself when its other copy leaves your library, and the phone apps can unhide an album's duplicates."
+  "On Limpid OS's page, the Music filter says All Resolutions until you choose one, Show Hidden is its own button, a line says what you're viewing with Reset Filters, and the buttons stay with you while you scroll."
  ],
  "files": [
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-696/bzImage",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-697/bzImage",
    "size": 12104704,
    "sha256": "6514e9c498e7dfa368f9b0a71414b30f097d4cd61b72890b08d0b4bf17e5d1b7",
    "name": "bzImage"
   },
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-696/initramfs",
-   "size": 40438857,
-   "sha256": "5be87ae23a5e9dc5f4a50d46ac4d909ab55dbe5c288b040a7ae7a1736453d9a8",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-697/initramfs",
+   "size": 40436914,
+   "sha256": "1b90125160e7d47b786f6436cebc1969eb474425ac8b78d36fc46bc8c2bdd363",
    "name": "initramfs"
   }
  ],
- "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-696/limpid-os-1.0-696.zip"
+ "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-697/limpid-os-1.0-697.zip"
 }
