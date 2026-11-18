@@ -1,16 +1,19 @@
 {
- "version": "1.0-697",
- "date": "2026-11-17",
+ "version": "1.0-700",
+ "date": "2026-11-18",
  "notes": [
-  "The Music page's filter says All Resolutions until you choose one.",
-  "Show Hidden is now its own button next to the filter, there only while something is hidden.",
-  "While a filter or Show Hidden is on, a line under the buttons says what you're viewing, with Reset Filters.",
-  "The buttons at the top of the Music page stay with you while you scroll.",
-  "News & Updates is now News & Support."
+  "Album pictures come in the size each place shows them: sharp everywhere, much less memory, and scrolling through thousands of albums and songs stays smooth. Pictures already seen show at once.",
+  "An album opened from Search leaves out the songs you hid and the hidden duplicates, as Music does.",
+  "The sidebar now runs along the window's edge.",
+  "News & Support takes the whole page.",
+  "Download Remote App goes away once a phone has connected.",
+  "Deezer joins TIDAL and Qobuz on the Streaming page: add it to Lyrion, sign in and play it in Limpid.",
+  "Add albums and songs from Streaming to your Music with Add to Library. They show in Music with Lyrion's mark and the service's name, and play through Lyrion.",
+  "Show Hidden is now an eye button, the last of the Music page's buttons."
  ],
  "dmg": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-697/Limpid-1.0-697.dmg",
-  "size": 21566163,
-  "sha256": "655adf23c3cf62975ac2928795039b82eb80fe69421891beb682205ac1d7e883"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-700/Limpid-1.0-700.dmg",
+  "size": 21970640,
+  "sha256": "b42464f139f7552a762298ca4b3bf22ec8c454c4b7fe613e787ccc7e320eaddf"
  }
 }
