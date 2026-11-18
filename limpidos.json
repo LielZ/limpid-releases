@@ -1,22 +1,29 @@
 {
- "version": "1.0-697",
- "date": "2026-11-17",
+ "version": "1.0-700",
+ "date": "2026-11-18",
  "notes": [
-  "On Limpid OS's page, the Music filter says All Resolutions until you choose one, Show Hidden is its own button, a line says what you're viewing with Reset Filters, and the buttons stay with you while you scroll."
+  "News & Support on Limpid OS's page: what we write for everyone, and your support tickets.",
+  "Album pictures come in the size each place shows them, and long lists scroll smoothly even with thousands of songs.",
+  "An album opened from Search leaves out the songs you hid and the hidden duplicates, as Music does.",
+  "The sidebar now runs along the window's edge.",
+  "Download Remote App goes away once a phone has connected.",
+  "Deezer joins TIDAL and Qobuz on the Streaming page: add it to Lyrion, sign in and play it in Limpid.",
+  "Add albums and songs from Streaming to your Music with Add to Library. They show in Music with Lyrion's mark and the service's name, and play through Lyrion.",
+  "Show Hidden is now an eye button, the last of the Music page's buttons."
  ],
  "files": [
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-697/bzImage",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-700/bzImage",
    "size": 12104704,
    "sha256": "6514e9c498e7dfa368f9b0a71414b30f097d4cd61b72890b08d0b4bf17e5d1b7",
    "name": "bzImage"
   },
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-697/initramfs",
-   "size": 40436914,
-   "sha256": "1b90125160e7d47b786f6436cebc1969eb474425ac8b78d36fc46bc8c2bdd363",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-700/initramfs",
+   "size": 40613516,
+   "sha256": "7a90832c3a17e80d41b4063f3ac82b597ba63e55fe9a709d00af1ddc7379f4fe",
    "name": "initramfs"
   }
  ],
- "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-697/limpid-os-1.0-697.zip"
+ "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-700/limpid-os-1.0-700.zip"
 }
