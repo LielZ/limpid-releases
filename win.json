@@ -1,21 +1,26 @@
 {
- "version": "1.0-697",
- "date": "2026-11-17",
+ "version": "1.0-700",
+ "date": "2026-11-18",
  "notes": [
-  "The Music page's filter says All Resolutions until you choose one.",
-  "Show Hidden is now its own button next to the filter, there only while something is hidden.",
-  "While a filter or Show Hidden is on, a line under the buttons says what you're viewing, with Reset Filters.",
-  "The buttons at the top of the Music page stay with you while you scroll.",
-  "News & Updates is now News & Support, with a lifebuoy icon."
+  "Album pictures come in the size each place shows them: sharp everywhere, much less memory, and scrolling through thousands of albums and songs stays smooth. Pictures already seen show at once.",
+  "An album opened from Search leaves out the songs you hid and the hidden duplicates, as Music does.",
+  "When another program gives your device back, Limpid stays paused and tells you the device is free; Play starts it again.",
+  "Plugins are now in Settings.",
+  "The sidebar now runs along the window's edge.",
+  "News & Support takes the whole page.",
+  "Download Remote App goes away once a phone has connected.",
+  "Deezer joins TIDAL and Qobuz on the Streaming page: add it to Lyrion, sign in and play it in Limpid.",
+  "Add albums and songs from Streaming to your Music with Add to Library. They show in Music with Lyrion's mark and the service's name, and play through Lyrion.",
+  "Show Hidden is now an eye button, the last of the Music page's buttons."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-697/Limpid-1.0-697-x64.exe",
-  "size": 79066232,
-  "sha256": "5965a79236f55880190e4d743ad52f076b7a093f6f5e337edc4c803272c3c6ce"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-700/Limpid-1.0-700-x64.exe",
+  "size": 79107009,
+  "sha256": "09502c43e9bbb680406bca046ac262c8e33be94c4d921c7438ee6d5469da749f"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-697/Limpid-1.0-697-arm64.exe",
-  "size": 75844358,
-  "sha256": "54484181a65c4daeb697cfe7d8d2294e5dcf17eb8aeba52a093ae29278a29817"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-700/Limpid-1.0-700-arm64.exe",
+  "size": 75885049,
+  "sha256": "8048eb76852f96647609e0d8e1a94638cdcfbe3e84df00194d012d8089f7eeb8"
  }
 }
