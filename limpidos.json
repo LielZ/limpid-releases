@@ -1,29 +1,23 @@
 {
- "version": "1.0-700",
+ "version": "1.0-701",
  "date": "2026-11-18",
  "notes": [
-  "News & Support on Limpid OS's page: what we write for everyone, and your support tickets.",
-  "Album pictures come in the size each place shows them, and long lists scroll smoothly even with thousands of songs.",
-  "An album opened from Search leaves out the songs you hid and the hidden duplicates, as Music does.",
-  "The sidebar now runs along the window's edge.",
-  "Download Remote App goes away once a phone has connected.",
-  "Deezer joins TIDAL and Qobuz on the Streaming page: add it to Lyrion, sign in and play it in Limpid.",
-  "Add albums and songs from Streaming to your Music with Add to Library. They show in Music with Lyrion's mark and the service's name, and play through Lyrion.",
-  "Show Hidden is now an eye button, the last of the Music page's buttons."
+  "Installing Limpid OS works on a drive that was used before (one with Windows, an earlier Limpid OS, or an installation that stopped halfway). It failed with \"Installation failed: mkfs.ext4 ... does not exist\". Make a new USB stick from this version and install again.",
+  "Formatting a second drive for your music works on a drive that was used before."
  ],
  "files": [
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-700/bzImage",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-701/bzImage",
    "size": 12104704,
    "sha256": "6514e9c498e7dfa368f9b0a71414b30f097d4cd61b72890b08d0b4bf17e5d1b7",
    "name": "bzImage"
   },
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-700/initramfs",
-   "size": 40613516,
-   "sha256": "7a90832c3a17e80d41b4063f3ac82b597ba63e55fe9a709d00af1ddc7379f4fe",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-701/initramfs",
+   "size": 40613385,
+   "sha256": "f2415fe7ec4a49de3afb0ecb71cb48c341d3341bbc93c4373e63eba57efb97c3",
    "name": "initramfs"
   }
  ],
- "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-700/limpid-os-1.0-700.zip"
+ "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-701/limpid-os-1.0-701.zip"
 }
