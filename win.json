@@ -1,19 +1,18 @@
 {
- "version": "1.0-702",
+ "version": "1.0-706",
  "date": "2026-11-19",
  "notes": [
-  "Limpid is now a player for this computer only: Playing on, Remote only and the search for other computers are gone. To play on Limpid OS or on another computer, use Limpid Remote: iPhone, iPad, Android, and now also Mac and Windows.",
-  "Lyrion: Limpid uses the Lyrion Music Server on this computer only.",
-  "Limpid Remote for Windows: the Android remote as a Windows app, for Limpid OS or another computer."
+  "The big player shows the album's picture again (only its shadow was shown).",
+  "Scroll bars stay beside what scrolls: they no longer run under the window's buttons, the bar held at the top of Music or the player bar."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-702/Limpid-1.0-702-x64.exe",
-  "size": 79061772,
-  "sha256": "649510ca58a8578407d58886c510ada98de38a0e734de035ad30e2ee80a94c9d"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-706/Limpid-1.0-706-x64.exe",
+  "size": 79062285,
+  "sha256": "fa7070ddfc8b48b2c4ceef6b3e725692662b7495398096a2d9df0d97441eb851"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-702/Limpid-1.0-702-arm64.exe",
-  "size": 75839938,
-  "sha256": "7e69ac1f6b4aae1aef56fb7aa691530ee913f63347ba27e45ecae0c0151c1260"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-706/Limpid-1.0-706-arm64.exe",
+  "size": 75840603,
+  "sha256": "512aa24adfd01eebd2f92774db292e66cd7f77ff8ff25041cba8c6ba2d595e9c"
  }
 }
