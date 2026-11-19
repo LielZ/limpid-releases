@@ -1,28 +1,28 @@
 {
- "version": "1.0-707",
+ "version": "1.0-708",
  "date": "2026-11-19",
  "notes": [
-  "Every drive in your Limpid OS computer, and every USB drive, can now be changed: upload, rename, move and delete on any of them.",
-  "Each drive is on your network: smb://limpid-\u2026.local/<drive> on a Mac (Finder shows it), \\\\limpid-\u2026.local\\<drive> on Windows. The Drives page shows each drive's path."
+  "DSD plays as DSD to a DAC that plays DSD, also one that plays PCM only up to 96 kHz: no more conversion to 88.2 kHz. The signal path says \"native\" when the DAC gets DSD as DSD.",
+  "Turning DSD on checks your DAC first, as on the Mac and Windows: a few seconds of quiet test sound, and you say if it was clean."
  ],
  "files": [
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-707/bzImage",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-708/bzImage",
    "size": 12104704,
    "sha256": "6514e9c498e7dfa368f9b0a71414b30f097d4cd61b72890b08d0b4bf17e5d1b7",
    "name": "bzImage"
   },
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-707/initramfs",
-   "size": 41152297,
-   "sha256": "c16f6f006d8abc59a42f69b1eb525c5cb1afb759a367c10a9fb64fb6e5740be4",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-708/initramfs",
+   "size": 41165131,
+   "sha256": "8ff7ab65794490b14101b22de4f0b706d5fb00276bb177165b519f70a8dcfd88",
    "name": "initramfs"
   }
  ],
- "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-707/limpid-os-1.0-707.zip",
+ "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-708/limpid-os-1.0-708.zip",
  "image": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-707/limpid-os-1.0-707.zip",
-  "size": 55871700,
-  "sha256": "364831f40a616b16b0212e0d1fac6e154b16925bd057e30519260f9a40d50f47"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-708/limpid-os-1.0-708.zip",
+  "size": 55887546,
+  "sha256": "4b6682e0ef5ac9e210dfe7e23b07f53ff743485579ec818708cbc8e56fa61f0d"
  }
 }
