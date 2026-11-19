@@ -1,28 +1,28 @@
 {
- "version": "1.0-705",
+ "version": "1.0-707",
  "date": "2026-11-19",
  "notes": [
-  "\"Choose where to play\" on your phone shows your DAC again: it could stay empty after Limpid OS started.",
-  "License: Limpid OS no longer says \"the license server does not answer\" after it starts: it asks again until the network is up."
+  "Every drive in your Limpid OS computer, and every USB drive, can now be changed: upload, rename, move and delete on any of them.",
+  "Each drive is on your network: smb://limpid-\u2026.local/<drive> on a Mac (Finder shows it), \\\\limpid-\u2026.local\\<drive> on Windows. The Drives page shows each drive's path."
  ],
  "files": [
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-705/bzImage",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-707/bzImage",
    "size": 12104704,
    "sha256": "6514e9c498e7dfa368f9b0a71414b30f097d4cd61b72890b08d0b4bf17e5d1b7",
    "name": "bzImage"
   },
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-705/initramfs",
-   "size": 40622297,
-   "sha256": "e52cd3d99cd9aa98718ee0ab96a02d24150451f0936605c95dedd451a31d62db",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-707/initramfs",
+   "size": 41152297,
+   "sha256": "c16f6f006d8abc59a42f69b1eb525c5cb1afb759a367c10a9fb64fb6e5740be4",
    "name": "initramfs"
   }
  ],
- "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-705/limpid-os-1.0-705.zip",
+ "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-707/limpid-os-1.0-707.zip",
  "image": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-705/limpid-os-1.0-705.zip",
-  "size": 55348209,
-  "sha256": "f334052981e5b97830ce6ff199dc4ca3371c15482b090f7c339446d34c26c561"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-707/limpid-os-1.0-707.zip",
+  "size": 55871700,
+  "sha256": "364831f40a616b16b0212e0d1fac6e154b16925bd057e30519260f9a40d50f47"
  }
 }
