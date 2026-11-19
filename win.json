@@ -1,18 +1,20 @@
 {
- "version": "1.0-706",
- "date": "2026-11-19",
+ "version": "1.0-710",
+ "date": "2026-11-20",
  "notes": [
-  "The big player shows the album's picture again (only its shadow was shown).",
-  "Scroll bars stay beside what scrolls: they no longer run under the window's buttons, the bar held at the top of Music or the player bar."
+  "Lyrion's own icon in Plugins, in the welcome and next to Lyrion Streaming.",
+  "The Queue beside the window is square where it comes out of the window.",
+  "\"Related Search\" next to the search button in the big player.",
+  "Visualizer: no dark band under the Curve."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-706/Limpid-1.0-706-x64.exe",
-  "size": 79062285,
-  "sha256": "fa7070ddfc8b48b2c4ceef6b3e725692662b7495398096a2d9df0d97441eb851"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-710/Limpid-1.0-710-x64.exe",
+  "size": 79071770,
+  "sha256": "4d7e5f97e6d93f5ed185036691460ffaaf064a94f360f433d0dc86661f31af71"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-706/Limpid-1.0-706-arm64.exe",
-  "size": 75840603,
-  "sha256": "512aa24adfd01eebd2f92774db292e66cd7f77ff8ff25041cba8c6ba2d595e9c"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-710/Limpid-1.0-710-arm64.exe",
+  "size": 75849935,
+  "sha256": "83a8ac79044417d1139e5a5e69f50fb5d6dc6c892651ab39d6480129ca21c488"
  }
 }
