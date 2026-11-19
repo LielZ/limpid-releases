@@ -1,33 +1,28 @@
 {
- "version": "1.0-702",
+ "version": "1.0-705",
  "date": "2026-11-19",
  "notes": [
-  "limpid.local is now the system page: Remotes, Files, Drives and Settings (this computer, Reinstall Limpid OS, network, power, updates, and your license with your account). Playing, plugins and sound settings are in Limpid Remote, on your phone, iPad, Mac or PC.",
-  "Files: manage the music on your drives: browse, sort, new folder, rename, move, copy, delete, upload files and whole folders, download.",
-  "Reinstall Limpid OS: downloads the newest Limpid OS and installs it again. Your settings and music stay.",
-  "Format is gone: a drive is used as it is.",
-  "The USB stick now only installs: choose the drive with the arrows and Enter, or from a browser at limpid.local. On a drive that has Limpid OS, \"Install again, keep settings and music\" comes first. Pull out the stick and the computer restarts by itself.",
-  "Limpid OS USB Maker for Mac and Windows puts Limpid OS on a USB stick for you.",
-  "Lyrion: only the Lyrion Music Server on this computer."
+  "\"Choose where to play\" on your phone shows your DAC again: it could stay empty after Limpid OS started.",
+  "License: Limpid OS no longer says \"the license server does not answer\" after it starts: it asks again until the network is up."
  ],
  "files": [
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-702/bzImage",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-705/bzImage",
    "size": 12104704,
    "sha256": "6514e9c498e7dfa368f9b0a71414b30f097d4cd61b72890b08d0b4bf17e5d1b7",
    "name": "bzImage"
   },
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-702/initramfs",
-   "size": 40617665,
-   "sha256": "5a7f31b766da761e97475c56a9c7abc73ab45ca881ea2f2e01fbc7a70c1485a7",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-705/initramfs",
+   "size": 40622297,
+   "sha256": "e52cd3d99cd9aa98718ee0ab96a02d24150451f0936605c95dedd451a31d62db",
    "name": "initramfs"
   }
  ],
- "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-702/limpid-os-1.0-702.zip",
+ "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-705/limpid-os-1.0-705.zip",
  "image": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-702/limpid-os-1.0-702.zip",
-  "size": 55345324,
-  "sha256": "4dafaa34e953bb5edc9b2431f8304d52c69be21798a1bc16f1f064cfff604424"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-705/limpid-os-1.0-705.zip",
+  "size": 55348209,
+  "sha256": "f334052981e5b97830ce6ff199dc4ca3371c15482b090f7c339446d34c26c561"
  }
 }
