@@ -1,14 +1,14 @@
 {
- "version": "1.0-702",
- "date": "2026-11-19",
+ "version": "1.0-710",
+ "date": "2026-11-20",
  "notes": [
-  "Limpid is now a player for this computer only: Playing on, Remote only and the search for other computers are gone. To play on Limpid OS or on another computer, use Limpid Remote: iPhone, iPad, Android, and now also Mac and Windows.",
-  "Lyrion: Limpid uses the Lyrion Music Server on this computer only.",
-  "Limpid Remote for Mac: the iPad's remote as a Mac app, for Limpid OS or another computer."
+  "Lyrion's own icon in Plugins, in the welcome and next to Lyrion Streaming.",
+  "\"Related Search\" next to the search button in the big player.",
+  "Full screen: the bar at the top hides with the menu bar and comes back when you move the pointer to the top."
  ],
  "dmg": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-702/Limpid-1.0-702.dmg",
-  "size": 21215384,
-  "sha256": "84c70a4450ee09522fd9f4abe1531a56ce71710aa48c09cd19b4010e502f45a4"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-710/Limpid-1.0-710.dmg",
+  "size": 21210531,
+  "sha256": "429c52c8338c64bcef6685aef1daeacb852a4408a18d35bde22751e0a809b715"
  }
 }
