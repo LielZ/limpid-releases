@@ -1,28 +1,27 @@
 {
- "version": "1.0-708",
- "date": "2026-11-19",
+ "version": "1.0-709",
+ "date": "2026-11-20",
  "notes": [
-  "DSD plays as DSD to a DAC that plays DSD, also one that plays PCM only up to 96 kHz: no more conversion to 88.2 kHz. The signal path says \"native\" when the DAC gets DSD as DSD.",
-  "Turning DSD on checks your DAC first, as on the Mac and Windows: a few seconds of quiet test sound, and you say if it was clean."
+  "Stable Power is hidden for now."
  ],
  "files": [
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-708/bzImage",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-709/bzImage",
    "size": 12104704,
    "sha256": "6514e9c498e7dfa368f9b0a71414b30f097d4cd61b72890b08d0b4bf17e5d1b7",
    "name": "bzImage"
   },
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-708/initramfs",
-   "size": 41165131,
-   "sha256": "8ff7ab65794490b14101b22de4f0b706d5fb00276bb177165b519f70a8dcfd88",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-709/initramfs",
+   "size": 41165401,
+   "sha256": "9eec751628f709d8bfde7b0a68589028f3e143560428a8b2e4b02c2ec2138aa0",
    "name": "initramfs"
   }
  ],
- "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-708/limpid-os-1.0-708.zip",
+ "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-709/limpid-os-1.0-709.zip",
  "image": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-708/limpid-os-1.0-708.zip",
-  "size": 55887546,
-  "sha256": "4b6682e0ef5ac9e210dfe7e23b07f53ff743485579ec818708cbc8e56fa61f0d"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-709/limpid-os-1.0-709.zip",
+  "size": 55887559,
+  "sha256": "1088322fd440678f5b4d731af5f567f8e37206e7f10313a375a2f546c640f0d3"
  }
 }
