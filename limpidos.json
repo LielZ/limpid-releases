@@ -1,29 +1,27 @@
 {
- "version": "1.0-711",
+ "version": "1.0-716",
  "date": "2026-11-20",
  "notes": [
-  "A USB DAC shows up by itself when you plug it in, or when it starts after Limpid OS. No need for Look Again.",
-  "The drives' Windows path is now \\\\limpid-\u2026\\<drive>, which Windows finds by name.",
-  "The DSD check tells you when a slow USB connection holds your DAC back, and what to do."
+  "Songs and albums you kept from a streaming service you are not signed in to are greyed, with \"Connect to <service> to play\"."
  ],
  "files": [
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-711/bzImage",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-716/bzImage",
    "size": 12104704,
    "sha256": "6514e9c498e7dfa368f9b0a71414b30f097d4cd61b72890b08d0b4bf17e5d1b7",
    "name": "bzImage"
   },
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-711/initramfs",
-   "size": 41181737,
-   "sha256": "0a7f0dc3ddbe09e4e717ec0c4c40a81733daa689f7f6912bb4c1d3028bae0e1e",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-716/initramfs",
+   "size": 41191641,
+   "sha256": "561ff425565645b3895eb0f3993423b90ed3a10426a8b1d88acbcff667b13c11",
    "name": "initramfs"
   }
  ],
- "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-711/limpid-os-1.0-711.zip",
+ "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-716/limpid-os-1.0-716.zip",
  "image": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-711/limpid-os-1.0-711.zip",
-  "size": 55902819,
-  "sha256": "d940610c17db646d14e9aace02b82a5be8809cd7a83f6fe8afbbe81fbc3b27a3"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-716/limpid-os-1.0-716.zip",
+  "size": 55911382,
+  "sha256": "9ab8a5c171db35e185bfdd0f278fcccddfd52892293f49b40804192cc8178560"
  }
 }
