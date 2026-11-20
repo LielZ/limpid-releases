@@ -1,14 +1,12 @@
 {
- "version": "1.0-710",
+ "version": "1.0-716",
  "date": "2026-11-20",
  "notes": [
-  "Lyrion's own icon in Plugins, in the welcome and next to Lyrion Streaming.",
-  "\"Related Search\" next to the search button in the big player.",
-  "Full screen: the bar at the top hides with the menu bar and comes back when you move the pointer to the top."
+  "Songs and albums you kept from a streaming service you are not signed in to are greyed, with \"Connect to <service> to play\"."
  ],
  "dmg": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-710/Limpid-1.0-710.dmg",
-  "size": 21210531,
-  "sha256": "429c52c8338c64bcef6685aef1daeacb852a4408a18d35bde22751e0a809b715"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-716/Limpid-1.0-716.dmg",
+  "size": 21499107,
+  "sha256": "8d87224d933673a9f3e17200ad1d4a21a4dc6cd8254e79df084ba4a703686fad"
  }
 }
