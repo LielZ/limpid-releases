@@ -1,20 +1,17 @@
 {
- "version": "1.0-710",
+ "version": "1.0-716",
  "date": "2026-11-20",
  "notes": [
-  "Lyrion's own icon in Plugins, in the welcome and next to Lyrion Streaming.",
-  "The Queue beside the window is square where it comes out of the window.",
-  "\"Related Search\" next to the search button in the big player.",
-  "Visualizer: no dark band under the Curve."
+  "Songs and albums you kept from a streaming service you are not signed in to are greyed, with \"Connect to <service> to play\"."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-710/Limpid-1.0-710-x64.tar.gz",
-  "size": 47235225,
-  "sha256": "8d56e09e7f8980bbb96fd57587c4a043723761935b209ed8e967ea04007d2361"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-716/Limpid-1.0-716-x64.tar.gz",
+  "size": 47237314,
+  "sha256": "f60439d5e298f0376ca1d79e305372389e34fc1bd594ce099ed0ec33ca465854"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-710/Limpid-1.0-710-arm64.tar.gz",
-  "size": 45103594,
-  "sha256": "39a99be7a8aef5f1d28dd284ed2e512614cae6eb7487f9d7b2a12f82ce798a44"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-716/Limpid-1.0-716-arm64.tar.gz",
+  "size": 45107749,
+  "sha256": "53e56367c11e8e2805a1630ac9c9665f631f626e6aa8c14a4aae6fd0473db38b"
  }
 }
