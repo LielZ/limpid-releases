@@ -1,12 +1,12 @@
 {
- "version": "1.0-716",
+ "version": "1.0-720",
  "date": "2026-11-20",
  "notes": [
-  "Songs and albums you kept from a streaming service you are not signed in to are greyed, with \"Connect to <service> to play\"."
+  "Limpid Remote can now show the Visualizer for the music playing on this Mac, in place of the cover."
  ],
  "dmg": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-716/Limpid-1.0-716.dmg",
-  "size": 21499107,
-  "sha256": "8d87224d933673a9f3e17200ad1d4a21a4dc6cd8254e79df084ba4a703686fad"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-720/Limpid-1.0-720.dmg",
+  "size": 21504878,
+  "sha256": "6890b9f896ab6236f75fd8a6b50f5924def2a4cb86ccf6c8b028bb64ce5642af"
  }
 }
