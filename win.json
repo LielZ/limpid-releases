@@ -1,17 +1,17 @@
 {
- "version": "1.0-712",
+ "version": "1.0-716",
  "date": "2026-11-20",
  "notes": [
-  "The Visualizer's background is see-through, like on the Mac: it draws straight on the big player's moving colours."
+  "Songs and albums you kept from a streaming service you are not signed in to are greyed, with \"Connect to <service> to play\"."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-712/Limpid-1.0-712-x64.exe",
-  "size": 79079065,
-  "sha256": "10a6f07c6740b8a05c71eee11ce1d508de47eed4adcadabb3f74da04e8db7ff4"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-716/Limpid-1.0-716-x64.exe",
+  "size": 79094504,
+  "sha256": "d48169b086e1e4f5804074516a3ef1c5321c2399691f4af219d917f7188e9cdb"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-712/Limpid-1.0-712-arm64.exe",
-  "size": 75857205,
-  "sha256": "78100cf8cbc9827d5b50c91f74f7dc36ac91fba04d794006eeb3e9a11847a691"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-716/Limpid-1.0-716-arm64.exe",
+  "size": 75872645,
+  "sha256": "03af39e893c651f409e3802c96c2ad8fe9d16f3a8dcf35cdd8baf10b9376bfe8"
  }
 }
