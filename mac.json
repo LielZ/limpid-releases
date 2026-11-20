@@ -1,12 +1,15 @@
 {
- "version": "1.0-720",
+ "version": "1.0-730",
  "date": "2026-11-20",
  "notes": [
-  "Limpid Remote can now show the Visualizer for the music playing on this Mac, in place of the cover."
+  "Moving to another point of a DXD song plays from there right away, also from a network drive. Before, the music could stay silent there, and the next song could show the wrong time.",
+  "In your account, each other computer of your license can be signed out, and Account on the Web and Sign Out are at the bottom, as on Windows.",
+  "Deactivate takes your license off this Mac while you stay signed in; Activate on This Mac brings it back.",
+  "News & Support is at the bottom of the sidebar, above Download Remote App."
  ],
  "dmg": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-720/Limpid-1.0-720.dmg",
-  "size": 21504878,
-  "sha256": "6890b9f896ab6236f75fd8a6b50f5924def2a4cb86ccf6c8b028bb64ce5642af"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-730/Limpid-1.0-730.dmg",
+  "size": 21562764,
+  "sha256": "1d1df369cf3c222ab242de5afd17fcdc48d0e62aa5e6ce4fcea034556c642ef5"
  }
 }
