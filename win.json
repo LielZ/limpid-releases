@@ -1,20 +1,17 @@
 {
- "version": "1.0-710",
+ "version": "1.0-712",
  "date": "2026-11-20",
  "notes": [
-  "Lyrion's own icon in Plugins, in the welcome and next to Lyrion Streaming.",
-  "The Queue beside the window is square where it comes out of the window.",
-  "\"Related Search\" next to the search button in the big player.",
-  "Visualizer: no dark band under the Curve."
+  "The Visualizer's background is see-through, like on the Mac: it draws straight on the big player's moving colours."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-710/Limpid-1.0-710-x64.exe",
-  "size": 79071770,
-  "sha256": "4d7e5f97e6d93f5ed185036691460ffaaf064a94f360f433d0dc86661f31af71"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-712/Limpid-1.0-712-x64.exe",
+  "size": 79079065,
+  "sha256": "10a6f07c6740b8a05c71eee11ce1d508de47eed4adcadabb3f74da04e8db7ff4"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-710/Limpid-1.0-710-arm64.exe",
-  "size": 75849935,
-  "sha256": "83a8ac79044417d1139e5a5e69f50fb5d6dc6c892651ab39d6480129ca21c488"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-712/Limpid-1.0-712-arm64.exe",
+  "size": 75857205,
+  "sha256": "78100cf8cbc9827d5b50c91f74f7dc36ac91fba04d794006eeb3e9a11847a691"
  }
 }
