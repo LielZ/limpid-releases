@@ -1,18 +1,20 @@
 {
- "version": "1.0-702",
- "date": "2026-11-19",
+ "version": "1.0-710",
+ "date": "2026-11-20",
  "notes": [
-  "Limpid is now a player for this computer only: Playing on, Remote only and the search for other computers are gone. To play on Limpid OS or on another computer, use Limpid Remote: iPhone, iPad, Android, and now also Mac and Windows.",
-  "Lyrion: Limpid uses the Lyrion Music Server on this computer only."
+  "Lyrion's own icon in Plugins, in the welcome and next to Lyrion Streaming.",
+  "The Queue beside the window is square where it comes out of the window.",
+  "\"Related Search\" next to the search button in the big player.",
+  "Visualizer: no dark band under the Curve."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-702/Limpid-1.0-702-x64.tar.gz",
-  "size": 47229072,
-  "sha256": "17785a5a786222764e172417e36b7f2cd178b4199adfe1419936ad4195406e1f"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-710/Limpid-1.0-710-x64.tar.gz",
+  "size": 47235225,
+  "sha256": "8d56e09e7f8980bbb96fd57587c4a043723761935b209ed8e967ea04007d2361"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-702/Limpid-1.0-702-arm64.tar.gz",
-  "size": 45102022,
-  "sha256": "764511278bfec1697e32caa4882f34dda3ff3e715eaa4405ad0c0c2892f1216b"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-710/Limpid-1.0-710-arm64.tar.gz",
+  "size": 45103594,
+  "sha256": "39a99be7a8aef5f1d28dd284ed2e512614cae6eb7487f9d7b2a12f82ce798a44"
  }
 }
