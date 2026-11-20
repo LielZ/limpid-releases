@@ -1,27 +1,29 @@
 {
- "version": "1.0-716",
+ "version": "1.0-717",
  "date": "2026-11-20",
  "notes": [
-  "Songs and albums you kept from a streaming service you are not signed in to are greyed, with \"Connect to <service> to play\"."
+  "After a restart, your DAC is ready right away, even when it comes up a few seconds after the computer. No need to choose it again.",
+  "When your DAC comes back after being off or unplugged, Limpid OS takes it again by itself.",
+  "A DAC that came up at a slow USB speed, though it can go faster, is reconnected by Limpid OS once, by itself, as unplugging it and plugging it back in would."
  ],
  "files": [
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-716/bzImage",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-717/bzImage",
    "size": 12104704,
    "sha256": "6514e9c498e7dfa368f9b0a71414b30f097d4cd61b72890b08d0b4bf17e5d1b7",
    "name": "bzImage"
   },
   {
-   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-716/initramfs",
-   "size": 41191641,
-   "sha256": "561ff425565645b3895eb0f3993423b90ed3a10426a8b1d88acbcff667b13c11",
+   "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-717/initramfs",
+   "size": 41191308,
+   "sha256": "2c494eca0272231163981167d1d0a4407750344bc03b09cada757ce5be301841",
    "name": "initramfs"
   }
  ],
- "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-716/limpid-os-1.0-716.zip",
+ "stick": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-717/limpid-os-1.0-717.zip",
  "image": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-716/limpid-os-1.0-716.zip",
-  "size": 55911382,
-  "sha256": "9ab8a5c171db35e185bfdd0f278fcccddfd52892293f49b40804192cc8178560"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-717/limpid-os-1.0-717.zip",
+  "size": 55910721,
+  "sha256": "ee0996f509dda6259dc1e1f4fb16319348d48d81f6f44b58e93d0fb83c9562da"
  }
 }
