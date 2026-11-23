@@ -1,15 +1,12 @@
 {
- "version": "1.0-730",
- "date": "2026-11-20",
+ "version": "1.0-734",
+ "date": "2026-11-23",
  "notes": [
-  "Moving to another point of a DXD song plays from there right away, also from a network drive. Before, the music could stay silent there, and the next song could show the wrong time.",
-  "In your account, each other computer of your license can be signed out, and Account on the Web and Sign Out are at the bottom, as on Windows.",
-  "Deactivate takes your license off this Mac while you stay signed in; Activate on This Mac brings it back.",
-  "News & Support is at the bottom of the sidebar, above Download Remote App."
+  "Before Limpid installs Lyrion for streaming, you tick a box to agree to Lyrion's Terms of Service and Privacy Policy, with links to both."
  ],
  "dmg": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-730/Limpid-1.0-730.dmg",
-  "size": 21562764,
-  "sha256": "1d1df369cf3c222ab242de5afd17fcdc48d0e62aa5e6ce4fcea034556c642ef5"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-734/Limpid-1.0-734.dmg",
+  "size": 21587985,
+  "sha256": "9abbba349b2a17d5ef27e534abd2fa7eb5c96a8eac7fa81e3c34caaa11cdf6f3"
  }
 }
