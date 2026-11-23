@@ -1,17 +1,19 @@
 {
- "version": "1.0-720",
- "date": "2026-11-20",
+ "version": "1.0-734",
+ "date": "2026-11-23",
  "notes": [
-  "Limpid Remote can now show the Visualizer for the music playing on this PC, in place of the cover."
+  "Plugins work on Windows 10, version 2004 and later, and Limpid no longer says it was not tested there. Before, every plugin stopped on Windows 10 right after it started.",
+  "Installing Limpid puts its shortcut on the desktop too.",
+  "Before Limpid installs Lyrion for streaming, you tick a box to agree to Lyrion's Terms of Service and Privacy Policy, with links to both."
  ],
  "x64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-720/Limpid-1.0-720-x64.exe",
-  "size": 79095924,
-  "sha256": "86a8cbc38ab851e14f3bf66c9d83ae93d97e349e277db4c8d4ef9c5ea5d4d09d"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-734/Limpid-1.0-734-x64.exe",
+  "size": 79097554,
+  "sha256": "ea449ea0f7282149aabe2c3395b2fa9374fbaa05df31874ef22f3528d3353507"
  },
  "arm64": {
-  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-720/Limpid-1.0-720-arm64.exe",
-  "size": 75874082,
-  "sha256": "fba640e28737e2f2b2d5b6f05d92503e0e157a7406280f354c9e7147457ae8d5"
+  "url": "https://github.com/LielZ/limpid-releases/releases/download/v1.0-734/Limpid-1.0-734-arm64.exe",
+  "size": 75875705,
+  "sha256": "919e453dff4eec3773938c38d5d43d5cbba4cead67632d1fe406759938814da1"
  }
 }
